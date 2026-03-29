@@ -56,7 +56,10 @@ women\_safety\_project/
 
 │ └── index.html
 
+* Run Locally
 
+  ```bash
+python app.py
 
 * PROJECT LINK
 
