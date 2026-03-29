@@ -58,7 +58,6 @@ women\_safety\_project/
 
 * Run Locally
 
-  ```bash
 python app.py
 
 * PROJECT LINK
